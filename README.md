@@ -30,3 +30,7 @@
 jericho-html.jar 사용
 Android Meal Library 사용.
 
+#왜 압축함?
+
+파일크기,용량 등으로 무압축 또는 .zip 
+파일로 업로드가 안되서 .7z로 업로드함.
